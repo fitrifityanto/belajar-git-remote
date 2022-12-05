@@ -1,0 +1,3 @@
+[submodule "belajar-git-remote-submodule"]
+	path = belajar-git-remote-submodule
+	url = git@github.com:fitrifityanto/belajar-git-remote-submodule.git
