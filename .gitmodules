@@ -5,3 +5,4 @@
 [submodule "submodules/belajar-submodule"]
 	path = submodules/belajar-submodule
 	url = git@github.com:fitrifityanto/belajar-git-remote-submodule.git
+	branch = submodul/user1
