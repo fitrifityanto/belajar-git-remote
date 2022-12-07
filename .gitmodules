@@ -2,3 +2,6 @@
 	branch = submodul/a
 [submodule "submodul/subb"]
 	branch = submodul/b
+[submodule "submodules/belajar-submodule"]
+	path = submodules/belajar-submodule
+	url = git@github.com:fitrifityanto/belajar-git-remote-submodule.git
