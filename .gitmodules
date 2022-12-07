@@ -3,3 +3,5 @@
 	url = git@github.com:fitrifityanto/belajar-git-remote-submodule.git
 [submodule "submodul/a"]
 	branch = submodul/a
+[submodule "submodul/subb"]
+	branch = submodul/b
